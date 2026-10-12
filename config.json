@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "title": "IRON & OIL GARAGE",
+    "description": "Freie Motorrad-Werkstatt: Restaurierung, Umbauten und ehrliche Handarbeit. Fiktive Demo-Seite.",
+    "lang": "de"
+  },
+  "theme": {
+    "bg": "#121314",
+    "bgAlt": "#1b1d1f",
+    "text": "#e8e4dc",
+    "muted": "#8f8b84",
+    "primary": "#d9531e",
+    "secondary": "#aab4bd",
+    "accent": "#ffb81c",
+    "fontHeading": "'Oswald', 'Arial Narrow', sans-serif",
+    "fontBody": "'Barlow', sans-serif"
+  },
+  "effects": {
+    "sparks": true,
+    "grain": true,
+    "cursorGlow": true
+  },
+  "sections": {
+    "nav": {
+      "enabled": true,
+      "brand": "IRON & OIL"
+    },
+    "hero": {
+      "enabled": true,
+      "kicker": "FREIE MOTORRAD-WERKSTATT · SEIT 1987",
+      "title": "IRON & OIL GARAGE",
+      "subtitle": "Restaurierung, Umbau, Instandsetzung. Handarbeit statt Fließband. Beweg die Maus, dann fliegen die Funken.",
+      "cta": { "label": "TERMIN ANFRAGEN", "target": "#contact" }
+    },
+    "about": {
+      "enabled": true,
+      "nav": "WERKSTATT",
+      "title": "ROST HAT KEINE CHANCE",
+      "paragraphs": [
+        "Wir nehmen Maschinen an, die andere längst abgeschrieben haben: Scheunenfunde, Unfallopfer, Projekte, die im Keller verstauben. Jede Schraube wird angefasst, geprüft und entweder gerettet oder ersetzt.",
+        "Keine Wegwerf-Reparaturen. Wenn etwas rausgeht, dann so, dass es die nächsten 30 Jahre hält."
+      ],
+      "badge": "HANDMADE\nSINCE 1987"
+    },
+    "stats": {
+      "enabled": true,
+      "items": [
+        { "value": 37, "label": "Jahre Erfahrung" },
+        { "value": 1200, "suffix": "+", "label": "Maschinen gerettet" },
+        { "value": 4, "label": "Hebebühnen" },
+        { "value": 100, "suffix": " %", "label": "Handarbeit" }
+      ]
+    },
+    "services": {
+      "enabled": true,
+      "nav": "LEISTUNGEN",
+      "title": "LEISTUNGEN",
+      "items": [
+        { "name": "Inspektion & Service", "text": "Öl, Filter, Ventile, Bremsen, Kette. Nach Herstellervorgabe, mit Prüfprotokoll.", "price": "ab 129 €" },
+        { "name": "Motorüberholung", "text": "Zerlegen, Vermessen, Honen, neue Lager und Dichtungen. Danach läuft er wie am ersten Tag.", "price": "ab 1.450 €" },
+        { "name": "Restaurierung", "text": "Vom Rahmen bis zur letzten Schraube: strahlen, lackieren, aufbauen, abnehmen.", "price": "nach Aufwand" },
+        { "name": "Café-Racer-Umbau", "text": "Neuer Heckrahmen, Lenker, Sitzbank, Verkabelung. Schlank, schnell und eintragungsfähig.", "price": "ab 2.900 €" },
+        { "name": "Elektrik & Diagnose", "text": "Kein Funke, kein Licht, kein Leerlauf? Wir finden den Fehler und beheben ihn.", "price": "ab 79 €" }
+      ]
+    },
+    "beforeafter": {
+      "enabled": true,
+      "nav": "VORHER/NACHHER",
+      "title": "VORHER / NACHHER",
+      "text": "Ziehe den Regler. Links der Scheunenfund, rechts nach 180 Stunden Werkstatt.",
+      "labelBefore": "VORHER",
+      "labelAfter": "NACHHER"
+    },
+    "process": {
+      "enabled": true,
+      "nav": "ABLAUF",
+      "title": "SO LÄUFT'S",
+      "items": [
+        { "title": "Anfrage", "text": "Schreib uns, was du hast und was du vorhast. Fotos helfen." },
+        { "title": "Begutachtung", "text": "Wir sehen uns die Maschine an und nennen einen ehrlichen Preisrahmen." },
+        { "title": "Schrauben", "text": "Du bekommst regelmäßig Updates mit Bildern, ohne Überraschungen." },
+        { "title": "Abholung", "text": "Probefahrt, Übergabe, Schlüssel. Fertig." }
+      ]
+    },
+    "hours": {
+      "enabled": true,
+      "nav": "ZEITEN",
+      "title": "ÖFFNUNGSZEITEN",
+      "items": [
+        { "day": "Montag – Freitag", "time": "08:00 – 18:00" },
+        { "day": "Samstag", "time": "09:00 – 14:00" },
+        { "day": "Sonntag", "time": "Werkstatt-Ruhe" }
+      ],
+      "note": "Bitte vorher einen Termin vereinbaren."
+    },
+    "faq": {
+      "enabled": true,
+      "nav": "FAQ",
+      "title": "FRAGEN",
+      "items": [
+        { "q": "Arbeitet ihr an allen Marken?", "a": "An fast allen. Schwerpunkt sind Klassiker und Maschinen bis Baujahr 2000, aber wir schauen uns auch Neueres an." },
+        { "q": "Bekomme ich vorab einen Kostenvoranschlag?", "a": "Ja. Bei größeren Arbeiten gibt es ein schriftliches Angebot, und wir melden uns, bevor etwas teurer wird." },
+        { "q": "Könnt ihr meinen Umbau eintragen lassen?", "a": "Ja. Wir bauen von Anfang an so, dass die Abnahme klappt, und begleiten dich zum Prüfer." },
+        { "q": "Ist diese Werkstatt echt?", "a": "Nein. Das ist eine fiktive Demo-Seite für ein Portfolio-Projekt. Firma, Preise und Zahlen sind frei erfunden." }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "id": "contact",
+      "nav": "KONTAKT",
+      "title": "TERMIN ANFRAGEN",
+      "text": "Dies ist eine Demo-Seite. Den Code findest du auf GitHub.",
+      "links": [
+        { "label": "GitHub", "url": "https://github.com/IntinGtion" }
+      ]
+    },
+    "footer": {
+      "enabled": true,
+      "text": "© IRON & OIL GARAGE · Fiktive Demo-Seite · Ein Portfolio-Projekt"
+    }
+  }
+}
